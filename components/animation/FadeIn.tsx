@@ -14,7 +14,7 @@ interface FadeInProps {
 
 /**
  * FadeIn 애니메이션 컴포넌트
- * u2clab.com 스타일의 스크롤 트리거 페이드 인 애니메이션
+ * 스크롤 트리거 페이드 인 애니메이션
  */
 export function FadeIn({
   children,

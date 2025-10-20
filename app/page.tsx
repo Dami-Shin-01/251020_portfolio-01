@@ -55,7 +55,7 @@ export default function Home() {
 
             <FadeIn delay={0.2}>
               <p className="text-lg sm:text-xl text-gray-600 mb-8">
-                u2clab.com 웹사이트에서 영감을 받은 디자인 시스템
+                디자인 시스템
                 <br />
                 Next.js 15.5, Tailwind CSS 4.0, TypeScript로 구축
               </p>

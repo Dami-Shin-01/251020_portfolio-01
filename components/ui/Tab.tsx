@@ -18,7 +18,7 @@ interface TabsProps {
 
 /**
  * Tabs 컴포넌트
- * u2clab.com 스타일의 탭 네비게이션
+ * 탭 네비게이션
  */
 export function Tabs({ defaultValue, children, className }: TabsProps) {
   const [activeTab, setActiveTab] = useState(defaultValue);

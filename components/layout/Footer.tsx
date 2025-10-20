@@ -17,7 +17,7 @@ export function Footer() {
             <div>
               <h3 className="text-lg font-bold text-primary-600 mb-2">Design System</h3>
               <p className="text-sm text-gray-600">
-                u2clab.com 기반 디자인 시스템
+                디자인 시스템
               </p>
             </div>
 
@@ -57,7 +57,7 @@ export function Footer() {
 
           {/* Copyright */}
           <div className="mt-8 pt-6 border-t text-center text-sm text-gray-500">
-            © {currentYear} Design System. Inspired by u2clab.com
+            © {currentYear} Design System.
           </div>
         </div>
       </Container>

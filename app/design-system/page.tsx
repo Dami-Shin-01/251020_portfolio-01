@@ -60,7 +60,7 @@ export default function DesignSystemPage() {
               디자인 시스템
             </h1>
             <p className="text-lg text-gray-600">
-              u2clab.com에서 영감을 받은 디자인 토큰과 가이드라인
+              디자인 토큰과 가이드라인
             </p>
           </FadeIn>
         </Container>

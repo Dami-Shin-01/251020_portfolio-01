@@ -15,7 +15,7 @@ interface AnimatedCounterProps {
 
 /**
  * AnimatedCounter 컴포넌트
- * u2clab.com 스타일의 카운터 애니메이션
+ * 카운터 애니메이션
  * 뷰포트에 진입하면 자동으로 애니메이션 시작
  */
 export function AnimatedCounter({

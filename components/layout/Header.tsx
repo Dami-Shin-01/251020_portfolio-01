@@ -18,7 +18,7 @@ const navItems: NavItem[] = [
 
 /**
  * Header 컴포넌트
- * u2clab.com 스타일의 Sticky 헤더
+ * Sticky 헤더
  */
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);

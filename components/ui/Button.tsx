@@ -22,7 +22,7 @@ const sizeClasses = {
 
 /**
  * Button 컴포넌트
- * u2clab.com 스타일의 다양한 버튼 변형
+ * 다양한 버튼 변형
  */
 export const Button = forwardRef<HTMLButtonElement, ButtonProps>(
   ({ variant = 'primary', size = 'md', className, children, disabled, ...props }, ref) => {

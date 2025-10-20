@@ -1,6 +1,6 @@
 # Design Tokens
 
-u2clab.com 웹사이트를 기반으로 한 디자인 시스템 토큰 정의
+디자인 시스템 토큰 정의
 
 ## 색상 팔레트 (Color Palette)
 

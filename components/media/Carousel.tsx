@@ -26,7 +26,7 @@ interface CarouselProps {
 
 /**
  * Carousel 컴포넌트
- * Swiper.js 기반 캐러셀, u2clab.com 스타일
+ * Swiper.js 기반 캐러셀, 
  */
 export function Carousel({
   items,

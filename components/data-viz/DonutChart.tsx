@@ -18,7 +18,7 @@ interface DonutChartProps {
 
 /**
  * DonutChart 컴포넌트
- * u2clab.com 스타일의 도넛 차트
+ * 도넛 차트
  */
 export function DonutChart({ data, className, size = 300 }: DonutChartProps) {
   const defaultColors = [
