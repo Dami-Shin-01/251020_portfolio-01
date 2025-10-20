@@ -28,7 +28,7 @@ export default function ComponentsPage() {
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
               컴포넌트 쇼케이스
             </h1>
-            <p className="text-lg text-gray-600 max-w-3xl">
+            <p className="text-lg text-gray-600">
               디자인 시스템의 모든 컴포넌트를 확인하고 테스트해보세요.
             </p>
           </FadeIn>

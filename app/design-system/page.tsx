@@ -59,7 +59,7 @@ export default function DesignSystemPage() {
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
               디자인 시스템
             </h1>
-            <p className="text-lg text-gray-600 max-w-3xl">
+            <p className="text-lg text-gray-600">
               u2clab.com에서 영감을 받은 디자인 토큰과 가이드라인
             </p>
           </FadeIn>
